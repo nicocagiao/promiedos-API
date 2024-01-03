@@ -1,6 +1,11 @@
-#Proyecto de API para el sitio promiedos.com.ar+
+### API para el sitio promiedos.com.ar
 
-Tecnologías:
+
+## Objetivo:
+Realizar una API con Nodejs para hacer web scraping del sitio [Promiedos](https://promiedos.com.ar/)
+
+**Tecnologías:**
+
     Nodejs
     Axios
     Cheerio
