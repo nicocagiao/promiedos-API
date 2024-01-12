@@ -2,7 +2,7 @@
 
 
 ## Objetivo:
-Realizar una API con Nodejs para hacer web scraping del sitio [Promiedos](https://promiedos.com.ar/)
+Realizar un web scraper que recopile la información que se publica en el sitio _https://promiedos.com.ar/_ y generar una API con Nodejs para consumir los datos en formato JSON. [Promiedos](https://promiedos.com.ar/)
 
 **Tecnologías:**
 
